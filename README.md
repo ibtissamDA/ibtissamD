@@ -45,4 +45,5 @@ This project aims to address the challenges faced by the drying **Mto wa Matumai
 Feel free to check out my other projects and contributions on my GitHub profile!
 
 ## 📫 Contact Me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ibtissam-chaaban-8aa4a7308/) or email me at [betych930@gmail.com].
+Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ibtissam-chaaban-8aa4a7308/)](https://www.linkedin.com/in/ibtissam-chaaban-8aa4a7308/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betych930@gmail.com)](mailto:betych930@gmail.com).
